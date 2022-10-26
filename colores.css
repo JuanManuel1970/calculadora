@@ -1,0 +1,23 @@
+body{
+    background: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.container{
+    margin-top: 45px;
+}
+
+h1 {font-size: 80px;color: rgb(255, 68, 0);font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3 {font-size: 50px;color: rgb(0, 0, 255);font-family:Arial, Helvetica, sans-serif;
+}
+.linea {color: aquamarine;}
+
+.botones {color :white;height: 50px;width: 120px;background-color: rgb(3, 97, 179);border: solid 2px gray;border-radius:10%;
+display: inline-block;margin: 20px;transition: .3s;
+}
+
+.botones:hover {color :white;height: 45px;width: 110px;background-color: rgb(1, 44, 82);border: solid 2px gray;border-radius:50%;
+    display: inline-block;margin: 20px;
+    }
